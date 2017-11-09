@@ -1,3 +1,6 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [Introduction](README.md)
+* [Ubuntu/Linux](chapter1.md)
+* [Python历史](ubuntu.md)
+
